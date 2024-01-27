@@ -3,10 +3,12 @@ body {
     color: hotpink;
 }
 
-h1 {
+.advertise {
+    font-family: cursive;
     color: orange;
 }
 
-div {
+.slogan {
     color: lightgrey;
+    font-family: monospace;
 }
