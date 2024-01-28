@@ -1,14 +1,30 @@
 
 body {
-    color: hotpink;
+    color: black;
 }
 
 .advertise {
-    font-family: cursive;
+    font-family: "cursive";
     color: orange;
 }
 
 .slogan {
-    color: lightgrey;
+    color: grey;
     font-family: monospace;
+}
+
+button {
+    border-radius: 35px;
+}
+
+img {
+    border-radius: 35px;
+}
+
+.col{
+    width: 250px;
+}
+
+div {
+  padding-bottom: 10px;
 }
